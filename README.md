@@ -3,7 +3,7 @@
 👨🏻‍💻 I'm a fullstack (frontend focused) developer<br>
 🔭 I’m currently looking for a remote job outside Brazil<br>
 👯 I’m looking to collaborate on projects involving Vue, React or NodeJS<br>
-🌱 I’m currently learning NextJS<br>
+🌱 I’m currently learning Prisma<br>
 ⚡ Fun fact: I've worked on a startup that grew exponentially and was acquired by a unicorn-candidate startup in Brazil.
 
 
@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloNR&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloNR&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ A Quote for you:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
