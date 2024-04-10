@@ -1,9 +1,9 @@
 # Hi there, I'm Danilo 👋
 
 👨🏻‍💻 I'm a fullstack (frontend focused) developer<br>
-🔭 I’m currently looking for a remote job outside Brazil<br>
+🔭 I’m currently working on a remote job outside Brazil<br>
 👯 I’m looking to collaborate on projects involving Vue, React or NodeJS<br>
-🌱 I’m currently learning Prisma<br>
+🌱 I’m currently studying Domain-Driven Design and Clean Architecture<br>
 ⚡ Fun fact: I've worked on a startup that grew exponentially and was acquired by a unicorn-candidate startup in Brazil.
 
 
